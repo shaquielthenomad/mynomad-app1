@@ -12,11 +12,6 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: "Detachd - AI-Powered Insurance Fraud Prevention",
-  description: "Stop insurance fraud with AI verification",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{

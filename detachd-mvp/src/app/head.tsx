@@ -1,8 +1,8 @@
+export const metadata = {
+  title: "Detachd - AI-Powered Insurance Fraud Prevention",
+  description: "Stop insurance fraud with AI verification",
+};
+
 export default function Head() {
-  return (
-    <>
-      <title>Detachd - AI-Powered Insurance Fraud Prevention</title>
-      <meta name="description" content="Stop insurance fraud with AI verification" />
-    </>
-  );
+  return null;
 } 
